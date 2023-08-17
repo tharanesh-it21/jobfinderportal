@@ -1,1 +1,9 @@
 # jobfinderportal
+
+TECHNOLOGY USED
+MongoDB
+EXPRESS
+REACT
+NODEJS
+POSTMON
+
